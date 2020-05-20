@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -8,13 +9,22 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><p>Technology Headquarters</p>
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <p>Technology Headquarters</p>
 <p>TECH-HQ.VIP</p>
-<p>You are invited to the discord server<br>
+<p>Discord server<br>
 <a href="https://discord.gg/GVDjBDa">click here to join </a></p>
 <iframe width="350" height="500" src="https://discord.com/widget?id=511205633329201152&amp;theme=dark"></iframe>
 <iframe src="https://www.clocklink.com/clocks/HTML5/html5-world.html?Vancouver&amp;Tokyo&amp;New_York&amp;480&amp;blue" scrolling="no"></iframe>
-</div>
+
+    </div>
+  </div>
 </body>
 
 </html>
