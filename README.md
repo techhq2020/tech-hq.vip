@@ -16,4 +16,6 @@
 </div>
 </body>
 
+<script data-ad-client="ca-pub-9552462279682117" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script
+
 </html>
