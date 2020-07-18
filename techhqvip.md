@@ -9,7 +9,8 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><p>Tech-HQ.vip</p>
+  <div class="stackedit__html"><h1 id="welcome-to-tech-hq.vip">Welcome to Tech-HQ.vip</h1>
+<p>To join the discord <a href="https://discord.gg/GVDjBDa">click here</a></p>
 </div>
 </body>
 
