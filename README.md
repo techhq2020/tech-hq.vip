@@ -9,17 +9,8 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <p>Tech-HQ.vip</p>
-
-    </div>
-  </div>
+  <div class="stackedit__html"><p>Tech-HQ.vip</p>
+</div>
 </body>
 
 </html>
