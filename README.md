@@ -9,25 +9,12 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li><a href="#welcome-to-tech-hq.vip">Welcome to Tech-HQ.vip</a></li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <h1 id="welcome-to-tech-hq.vip">Welcome to Tech-HQ.vip</h1>
+  <div class="stackedit__html"><h1 id="welcome-to-tech-hq.vip">Welcome to Tech-HQ.vip</h1>
 <p>To join the discord <a href="https://discord.gg/GVDjBDa">click here</a></p>
 <iframe src="https://discord.com/widget?id=511205633329201152&amp;theme=dark" width="350" height="500"></iframe>
 <p>Welcome to Technology Headquarters VIP</p>
 <p>Linking community and digital resource</p>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
